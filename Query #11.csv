@@ -1,0 +1,126 @@
+ProductID,ProductName,StockQuantity,AvgDailySales,DaysUntilStockOut
+87,"User-Friendly Tablet",23,3.86,5.96
+58,"High-Performance Bluetooth Speaker",20,3.15,6.34
+445,"Versatile Dumbbells",20,3.14,6.38
+269,"Stylish Food Processor",22,3.08,7.15
+243,"User-Friendly Smartwatch",25,3.40,7.35
+241,"Space-Saving Coffee Maker",25,3.30,7.58
+150,"Elegant T-shirt",27,3.50,7.71
+108,"Best-Selling Science Fiction Book",20,2.58,7.74
+193,"Durable Dumbbells",29,3.69,7.85
+175,"Best-Selling Mystery Thriller",28,3.43,8.17
+113,"Advanced Smartwatch",22,2.67,8.25
+310,"Sleek Tablet",27,3.23,8.36
+2,"Durable Toaster",21,2.50,8.40
+283,"Captivating Poetry Collection",24,2.86,8.40
+338,"Sleek Portable Charger",24,2.80,8.57
+183,"High-Performance Headphones",20,2.31,8.65
+456,"Durable Dress",30,3.17,9.47
+470,"Space-Saving Food Processor",29,2.92,9.92
+410,"Trendy Hoodie",31,3.00,10.33
+21,"Cozy Shorts",36,3.41,10.55
+384,"Easy-to-Clean Coffee Maker",37,3.38,10.94
+499,"Durable Bicycle Helmet",28,2.47,11.35
+118,"Energy-Efficient Smartwatch",29,2.55,11.39
+49,"Informative Graphic Novel",31,2.71,11.42
+246,"High-Performance Football",43,3.64,11.83
+270,"Space-Saving Cookware Set",41,3.45,11.87
+419,"Quality Yoga Mat",40,3.32,12.06
+139,"Versatile Bicycle Helmet",42,3.38,12.41
+141,"Versatile Dress",39,3.10,12.58
+209,"Breathable Jeans",40,3.14,12.73
+459,"Versatile Tennis Racket",41,3.20,12.81
+199,"Informative Mystery Thriller",39,3.00,13.00
+321,"Lightweight T-shirt",45,3.40,13.24
+343,"Quality Football",39,2.92,13.34
+188,"Compact E-reader",28,2.09,13.39
+112,"Comfortable Golf Clubs",45,3.36,13.40
+180,"High-Performance Basketball",42,3.10,13.55
+498,"Adjustable Basketball",48,3.53,13.60
+59,"Comfortable Hoodie",35,2.57,13.61
+134,"Reliable Digital Camera",41,3.00,13.67
+339,"Informative Textbook",47,3.36,13.97
+207,"Durable Socks",42,2.95,14.23
+86,"Award-Winning Graphic Novel",53,3.71,14.27
+244,"Casual Jacket",42,2.90,14.48
+155,"Reliable Food Processor",53,3.60,14.72
+265,"Professional Football",43,2.92,14.74
+61,"Cozy Jacket",46,3.00,15.33
+147,"Durable Tennis Racket",40,2.60,15.38
+488,"Professional Yoga Mat",43,2.78,15.48
+124,"High-Performance Laptop",44,2.83,15.53
+185,"Innovative Bluetooth Speaker",49,3.15,15.56
+349,"Durable Running Shoes",46,2.94,15.66
+9,"Modern Electric Kettle",57,3.64,15.68
+451,"Breathable Hoodie",49,3.11,15.78
+8,"Lightweight Bicycle Helmet",47,2.92,16.08
+398,"Award-Winning Textbook",38,2.36,16.12
+317,"Energy-Efficient E-reader",61,3.67,16.64
+296,"Trendy Blouse",48,2.85,16.86
+477,"Stylish Electric Kettle",56,3.31,16.91
+159,"Trendy Sweater",51,3.00,17.00
+251,"Quality Skateboard",61,3.40,17.94
+371,"User-Friendly Portable Charger",54,3.00,18.00
+300,"Advanced Wireless Router",46,2.53,18.19
+263,"Compact Tablet",54,2.95,18.31
+315,"Sturdy Tennis Racket",41,2.19,18.74
+440,"Adjustable Bicycle Helmet",53,2.82,18.77
+131,"Durable Soccer Ball",59,3.13,18.88
+106,"Adjustable Dumbbells",60,3.18,18.89
+418,"Reliable Wireless Router",57,3.00,19.00
+344,"Efficient Food Processor",60,3.08,19.46
+491,"Adjustable Tennis Racket",60,3.08,19.50
+362,"Elegant Jeans",49,2.50,19.60
+294,"Efficient Microwave Oven",56,2.85,19.65
+312,"Stylish Jacket",69,3.47,19.88
+334,"Innovative Laptop",70,3.50,20.00
+26,"Reliable Electric Kettle",63,3.12,20.21
+72,"User-Friendly Wireless Router",46,2.27,20.24
+182,"Durable Hoodie",60,2.92,20.53
+122,"Adjustable Soccer Ball",60,2.91,20.63
+405,"Comfortable Sweater",58,2.73,21.27
+54,"Compact Blender",66,3.00,22.00
+60,"Compact Cookware Set",77,3.50,22.00
+224,"Breathable Socks",83,3.75,22.13
+323,"Adjustable Yoga Mat",67,3.00,22.33
+404,"Advanced Gaming Console",71,3.17,22.42
+302,"Engaging Mystery Thriller",70,3.08,22.75
+336,"Lightweight Dress",65,2.86,22.75
+168,"Energy-Efficient Portable Charger",85,3.70,22.97
+120,"Stylish Jeans",64,2.78,23.04
+135,"Durable Skateboard",72,3.06,23.54
+184,"Durable Skirt",57,2.38,24.00
+189,"Lightweight Skirt",63,2.60,24.23
+428,"Award-Winning Novel",79,3.25,24.31
+253,"Entertaining Children's Book",77,3.14,24.50
+383,"Inspiring Children's Book",68,2.75,24.73
+306,"Sleek Bluetooth Speaker",64,2.56,25.04
+218,"Versatile Sweater",92,3.64,25.30
+216,"Stylish Vacuum Cleaner",86,3.33,25.80
+74,"Breathable Shorts",52,2.00,26.00
+39,"Lightweight Socks",68,2.58,26.32
+206,"Educational Travel Guide",90,3.40,26.47
+79,"Innovative Gaming Console",93,3.50,26.57
+355,"Reliable Football",84,3.15,26.63
+365,"Lightweight Yoga Mat",89,3.33,26.70
+249,"Professional Running Shoes",87,3.25,26.77
+51,"Stylish Cookware Set",59,2.20,26.82
+43,"Comfortable Soccer Ball",81,3.00,27.00
+377,"Multifunctional Tablet",87,3.21,27.07
+275,"Efficient Cutting Board",74,2.69,27.53
+426,"Sturdy Running Shoes",88,3.19,27.61
+439,"Durable Bluetooth Speaker",88,3.18,27.66
+276,"High-Performance Skateboard",100,3.61,27.69
+1,"Reliable Blender",86,3.08,27.89
+457,"Versatile Yoga Mat",92,3.25,28.31
+273,"Lightweight Sweater",93,3.28,28.37
+381,"Comfortable Jeans",96,3.38,28.44
+372,"Reliable Cookware Set",100,3.50,28.57
+69,"Reliable Toaster",95,3.31,28.72
+212,"Inspiring Textbook",84,2.92,28.74
+234,"Reliable Bluetooth Speaker",96,3.33,28.80
+205,"Versatile Microwave Oven",83,2.88,28.87
+156,"Space-Saving Vacuum Cleaner",77,2.67,28.88
+142,"Inspiring Novel",96,3.29,29.22
+247,"High-Performance Smartwatch",128,4.33,29.54
+460,"Trendy Dress",48,1.62,29.71
